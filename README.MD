@@ -1,1 +1,1 @@
-# YOLOV*
+# YOLOV8
